@@ -1,0 +1,361 @@
+Country,Year,Population,Gini Index,Average Income,Top10 IncomeShare%,Bottom10 IncomeShare%,Income Group,Economic Group,OECD Status,G20/EU Status,Regional Group
+United States,2000,30072337,0.33,37106.74,30.78,1.1,High Income,Developed,Member,G20 Member,North America
+United States,2001,15189465,0.51,16250.11,54.56,1.44,Low Income,Developed,Member,G20 Member,North America
+United States,2002,89001835,0.23,40069.59,37.2,1.37,High Income,Developed,Member,G20 Member,North America
+United States,2003,297595139,0.23,1233.47,40.45,4.49,Lower Middle Income,Developed,Member,G20 Member,North America
+United States,2004,23680558,0.54,22950.25,45.34,3.25,High Income,Developed,Member,G20 Member,North America
+United States,2005,102682227,0.37,68442.23,38.25,3.23,Upper Middle Income,Developed,Member,G20 Member,North America
+United States,2006,12071500,0.42,12117.62,20.37,2.41,High Income,Developed,Member,G20 Member,North America
+United States,2007,12237449,0.5,7545.05,59.21,2.01,Lower Middle Income,Developed,Member,G20 Member,North America
+United States,2008,36032296,0.24,66697.83,58.48,1.2,Lower Middle Income,Developed,Member,G20 Member,North America
+United States,2009,249635777,0.34,45702.22,35.23,1.9,Low Income,Developed,Member,G20 Member,North America
+United States,2010,73966808,0.48,34047.4,46.71,4.02,Low Income,Developed,Member,G20 Member,North America
+United States,2011,297467929,0.25,61827.06,24.16,2.06,High Income,Developed,Member,G20 Member,North America
+United States,2012,172936672,0.55,69732.71,24.29,4.12,High Income,Developed,Member,G20 Member,North America
+United States,2013,7756519,0.49,63671.54,49.37,2.53,Upper Middle Income,Developed,Member,G20 Member,North America
+United States,2014,76391581,0.31,5107.84,54.97,2.95,Low Income,Developed,Member,G20 Member,North America
+United States,2015,293918826,0.43,55019.79,20.14,2.48,Lower Middle Income,Developed,Member,G20 Member,North America
+United States,2016,181468733,0.31,60908.05,43.9,3.22,Lower Middle Income,Developed,Member,G20 Member,North America
+United States,2017,149724729,0.42,30294.01,29.35,1.46,Low Income,Developed,Member,G20 Member,North America
+United States,2018,169925740,0.32,13504.43,35.36,4.9,Low Income,Developed,Member,G20 Member,North America
+United States,2019,127984406,0.21,17780.04,41.45,4.34,High Income,Developed,Member,G20 Member,North America
+United States,2020,62925673,0.38,43589.34,22.87,2.45,Lower Middle Income,Developed,Member,G20 Member,North America
+United States,2021,341744580,0.6,58623.77,46.03,1.29,Low Income,Developed,Member,G20 Member,North America
+United States,2022,98758611,0.35,8918.43,25.21,3.57,Low Income,Developed,Member,G20 Member,North America
+United States,2023,253261013,0.45,58864.35,55.17,1.08,Lower Middle Income,Developed,Member,G20 Member,North America
+India,2000,43431525,0.29,28036.11,40.39,4.78,Upper Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2001,107388316,0.63,3073.38,37.72,1.94,Low Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2002,68695029,0.35,48126.5,52.26,4.44,Low Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2003,223780861,0.32,22025.17,46.39,4.11,Upper Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2004,44849021,0.23,29735.0,26.03,1.86,Low Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2005,79830236,0.62,61976.63,52.73,2.36,Upper Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2006,258667151,0.27,48478.23,20.68,3.66,Upper Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2007,334195724,0.21,9404.8,47.43,1.86,Low Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2008,193910247,0.32,22372.85,48.21,1.21,High Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2009,311089564,0.46,24083.47,48.13,4.36,Lower Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2010,37209823,0.42,53157.15,43.27,4.08,High Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2011,244260718,0.5,5207.77,25.42,3.69,Low Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2012,288327384,0.63,6934.13,44.06,3.13,Upper Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2013,59909873,0.47,1833.43,38.49,1.44,Low Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2014,222608132,0.27,21317.31,48.01,2.15,High Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2015,5938668,0.29,10797.63,59.56,1.87,Lower Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2016,238406949,0.21,55753.54,39.21,2.66,Lower Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2017,127635927,0.33,63876.61,55.17,4.73,Low Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2018,185591199,0.36,69106.97,38.7,2.12,High Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2019,191752879,0.2,38893.38,44.57,4.08,High Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2020,178534033,0.58,50662.78,38.42,1.75,Upper Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2021,188608292,0.5,39024.1,58.51,3.45,Low Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2022,170965875,0.52,67030.93,24.02,2.35,Upper Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+India,2023,225998047,0.62,62898.34,43.86,4.18,Upper Middle Income,Developing,Key Partner,G20 Member,Southeast Asia
+Brazil,2000,93525256,0.54,18954.4,51.14,3.0,Lower Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2001,137409895,0.42,19002.95,27.73,3.79,Lower Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2002,219377972,0.42,47250.54,49.89,2.27,High Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2003,260193288,0.3,67807.98,25.47,3.0,High Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2004,10134125,0.24,31560.72,36.64,3.83,Low Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2005,335779016,0.6,22658.91,23.38,4.83,Low Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2006,85174058,0.5,3541.05,32.75,3.06,High Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2007,321507436,0.45,16544.71,25.12,1.79,Lower Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2008,160642132,0.53,50266.48,50.48,4.51,Low Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2009,281958236,0.61,65707.14,33.4,1.14,High Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2010,287120431,0.31,34696.17,55.96,3.36,High Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2011,5493471,0.3,48859.68,38.47,4.3,Low Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2012,229640099,0.44,51210.45,30.48,2.16,High Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2013,148172053,0.57,8456.36,29.52,4.04,Upper Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2014,305714714,0.27,18722.28,42.46,4.88,Upper Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2015,275874032,0.27,60340.79,24.81,1.67,Low Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2016,329733049,0.3,6883.01,47.04,3.76,Upper Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2017,306824701,0.42,33031.19,52.83,1.42,Lower Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2018,69902271,0.34,20999.4,46.95,1.06,High Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2019,329453120,0.49,9324.44,47.29,2.92,High Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2020,195057228,0.45,49528.47,56.42,1.32,Low Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2021,6604029,0.26,10839.88,39.65,3.67,Upper Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2022,158300830,0.58,54914.81,42.08,3.18,Upper Middle Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Brazil,2023,56450840,0.33,48429.07,36.77,1.97,Low Income,Developing,Key Partner,G20 Member,Latin America and the Caribbean
+Germany,2000,226889922,0.6,39127.44,39.35,2.48,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+Germany,2001,72413433,0.31,51328.04,25.88,3.39,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2002,270637826,0.63,48330.94,49.33,3.66,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2003,164760421,0.34,4875.36,51.85,2.32,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+Germany,2004,211295649,0.4,67400.62,47.11,2.16,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2005,231798922,0.64,69381.27,35.15,4.48,Low Income,Developed,Member,G20 Member,Western Europe
+Germany,2006,52205589,0.5,15930.3,57.33,1.17,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+Germany,2007,220470684,0.55,14623.96,51.79,3.15,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+Germany,2008,216296778,0.45,41058.56,34.28,4.95,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2009,149088616,0.57,24723.09,54.22,3.39,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2010,54373053,0.43,57435.89,22.02,1.44,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+Germany,2011,96755642,0.55,57912.78,26.87,1.87,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2012,183243437,0.49,36633.74,50.82,4.38,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2013,134501554,0.33,69704.39,47.52,2.97,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2014,312468439,0.64,51765.8,45.89,1.23,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2015,118663831,0.4,10494.78,39.84,3.22,Low Income,Developed,Member,G20 Member,Western Europe
+Germany,2016,45365130,0.2,36124.23,58.35,2.5,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+Germany,2017,129972450,0.45,36892.25,28.36,1.98,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+Germany,2018,104576256,0.52,39487.8,34.44,3.99,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2019,206814497,0.46,25472.4,39.47,4.44,Low Income,Developed,Member,G20 Member,Western Europe
+Germany,2020,209829174,0.54,56354.73,25.83,2.69,Low Income,Developed,Member,G20 Member,Western Europe
+Germany,2021,110871647,0.44,48077.81,34.1,3.6,High Income,Developed,Member,G20 Member,Western Europe
+Germany,2022,82827615,0.39,25941.48,41.62,3.57,Low Income,Developed,Member,G20 Member,Western Europe
+Germany,2023,146444811,0.63,66369.85,57.8,4.87,High Income,Developed,Member,G20 Member,Western Europe
+Nigeria,2000,302722699,0.31,22848.66,37.05,3.95,Upper Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2001,32242628,0.25,19753.05,35.25,3.47,Low Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2002,19906678,0.42,33409.17,30.13,4.59,Upper Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2003,168754766,0.47,43448.25,58.46,1.49,High Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2004,248007847,0.63,61877.9,21.84,2.09,Low Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2005,52267586,0.32,68883.94,58.27,3.73,Upper Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2006,348813486,0.52,4912.48,32.93,2.79,Low Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2007,35727638,0.55,28665.97,44.93,3.24,Low Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2008,13891933,0.44,12413.33,57.14,4.38,Low Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2009,339373472,0.54,7963.87,36.03,4.32,High Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2010,18569278,0.33,38159.85,42.86,1.69,Low Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2011,315705178,0.2,38174.16,23.53,4.08,High Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2012,290729554,0.38,33819.36,40.5,1.42,Low Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2013,172070469,0.63,24893.97,29.72,1.17,Upper Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2014,62180279,0.57,18371.26,32.21,3.57,Lower Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2015,14366784,0.52,55253.19,57.25,2.9,Upper Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2016,27326266,0.36,35659.74,21.43,3.62,Upper Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2017,37229959,0.38,52632.02,22.54,3.72,Lower Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2018,147620513,0.52,23148.31,23.34,3.63,Lower Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2019,209660435,0.21,32785.08,28.7,4.89,Lower Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2020,249851048,0.64,50101.79,31.01,2.99,High Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2021,194386460,0.33,56419.54,40.39,1.42,Lower Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2022,127938866,0.2,25173.92,56.08,1.69,Low Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+Nigeria,2023,310328219,0.49,40481.62,36.22,3.08,Upper Middle Income,Developing,Non Member,Non G20 Member,Sub-Saharan Africa
+China,2000,73880810,0.32,65663.8,23.24,3.45,Lower Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2001,110954710,0.31,18800.32,42.32,4.4,Upper Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2002,247377146,0.45,30826.89,49.79,3.36,Lower Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2003,70601778,0.56,44309.0,58.66,2.33,Lower Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2004,198087536,0.54,7198.59,55.2,4.64,Lower Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2005,93908239,0.28,10490.42,33.13,4.24,High Income,Developing,Key Partner,G20 Member,East Asia
+China,2006,237375638,0.35,62253.09,28.67,1.15,Low Income,Developing,Key Partner,G20 Member,East Asia
+China,2007,112569945,0.58,54892.24,46.49,2.04,Low Income,Developing,Key Partner,G20 Member,East Asia
+China,2008,191175403,0.34,2486.46,35.15,2.41,High Income,Developing,Key Partner,G20 Member,East Asia
+China,2009,234746408,0.23,13858.56,53.99,1.89,Lower Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2010,134535180,0.29,60498.32,57.06,1.93,Upper Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2011,34074019,0.27,67501.71,38.43,4.48,High Income,Developing,Key Partner,G20 Member,East Asia
+China,2012,277454278,0.43,12703.49,50.23,2.98,High Income,Developing,Key Partner,G20 Member,East Asia
+China,2013,211803935,0.29,40540.4,56.29,3.58,Low Income,Developing,Key Partner,G20 Member,East Asia
+China,2014,244804329,0.37,41977.56,55.74,4.72,Upper Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2015,313406296,0.23,68241.13,41.39,4.37,High Income,Developing,Key Partner,G20 Member,East Asia
+China,2016,161625118,0.33,59246.46,41.64,2.66,Lower Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2017,193192330,0.58,11445.86,54.96,2.25,High Income,Developing,Key Partner,G20 Member,East Asia
+China,2018,254199787,0.31,4608.77,29.28,4.39,Upper Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2019,213945562,0.34,24731.17,36.48,3.8,Upper Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2020,343855053,0.48,35506.05,33.77,1.71,High Income,Developing,Key Partner,G20 Member,East Asia
+China,2021,210149205,0.25,1731.97,39.68,1.9,Lower Middle Income,Developing,Key Partner,G20 Member,East Asia
+China,2022,103999127,0.5,55280.76,41.26,4.08,Low Income,Developing,Key Partner,G20 Member,East Asia
+China,2023,251205373,0.49,36335.32,42.03,1.71,Upper Middle Income,Developing,Key Partner,G20 Member,East Asia
+United Kingdom,2000,234316070,0.55,46250.47,45.39,1.89,High Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2001,59439660,0.59,3554.72,27.36,4.4,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2002,211903037,0.29,26783.56,37.0,2.85,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2003,168131654,0.6,16515.1,54.38,2.85,High Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2004,21591036,0.56,54316.83,46.11,3.03,Low Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2005,290405107,0.38,20575.81,41.6,2.7,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2006,146455983,0.55,31650.8,26.26,1.64,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2007,17231386,0.4,61479.68,21.84,4.72,High Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2008,112658782,0.4,15270.35,28.86,2.49,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2009,342125069,0.53,16857.43,31.33,3.81,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2010,333752394,0.54,64999.16,24.21,4.38,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2011,272951834,0.57,36393.71,25.37,4.4,High Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2012,120930649,0.44,30233.59,35.39,1.71,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2013,231396548,0.22,30976.15,45.34,3.17,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2014,161938266,0.57,66039.04,23.94,3.75,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2015,292129624,0.52,46549.63,23.64,2.36,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2016,67370335,0.59,68949.26,25.99,4.99,Low Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2017,219319827,0.35,44309.86,58.78,3.55,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2018,272987745,0.28,35127.18,20.63,1.63,High Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2019,75202781,0.55,17772.91,56.93,3.45,High Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2020,266961456,0.34,59303.09,49.65,1.89,High Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2021,153164732,0.43,22259.11,30.23,1.02,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2022,192640036,0.41,29929.4,56.72,2.46,High Income,Developed,Member,G20 Member,Western Europe
+United Kingdom,2023,346569070,0.3,13593.32,42.33,4.15,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+Russia,2000,61694501,0.27,61769.17,28.27,2.26,Upper Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2001,337942284,0.56,10662.5,45.74,3.26,Low Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2002,62987676,0.61,23152.31,48.96,4.57,Lower Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2003,121675612,0.52,15814.45,48.21,4.75,Low Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2004,44771526,0.53,54249.4,38.29,3.6,High Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2005,308674921,0.26,69228.68,43.66,3.89,Lower Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2006,24699414,0.45,30323.07,26.97,4.93,Lower Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2007,177125722,0.43,58695.72,50.09,3.83,Upper Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2008,264986179,0.54,22662.41,39.11,4.45,High Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2009,347898848,0.44,24654.43,53.58,1.96,Lower Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2010,179369977,0.5,57422.49,42.26,3.12,High Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2011,186015562,0.23,29445.52,43.54,1.93,High Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2012,22604464,0.52,48522.13,54.3,4.87,High Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2013,145148039,0.37,7518.98,31.43,2.53,Lower Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2014,123990657,0.41,29097.07,24.7,4.54,Upper Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2015,295217705,0.44,7970.28,59.94,4.5,Lower Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2016,185042229,0.27,65712.52,57.91,4.86,Upper Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2017,195481950,0.45,49666.16,41.71,2.08,Lower Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2018,281186938,0.38,37267.08,29.05,3.6,Low Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2019,249129185,0.62,22994.25,44.6,2.86,High Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2020,21354867,0.37,20044.28,46.29,2.13,Low Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2021,108900083,0.24,44911.95,56.37,2.9,High Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2022,346630522,0.32,19456.12,28.59,2.91,High Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Russia,2023,168866843,0.35,50681.53,22.81,3.19,Lower Middle Income,Developing,Non Member,G20 Member,Eastern Europe and Central Asia
+Japan,2000,167865327,0.28,49518.83,58.74,3.64,Low Income,Developed,Member,G20 Member,East Asia
+Japan,2001,232301573,0.64,12581.83,34.71,1.7,Low Income,Developed,Member,G20 Member,East Asia
+Japan,2002,8704917,0.65,64479.94,41.07,4.26,Low Income,Developed,Member,G20 Member,East Asia
+Japan,2003,121119256,0.37,27304.58,22.57,4.79,Lower Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2004,30561711,0.46,16945.46,23.7,4.39,Upper Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2005,113803878,0.37,62458.08,59.92,1.45,Upper Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2006,349176812,0.57,46523.38,39.63,2.29,Low Income,Developed,Member,G20 Member,East Asia
+Japan,2007,166540585,0.37,24991.46,50.93,2.01,Low Income,Developed,Member,G20 Member,East Asia
+Japan,2008,21240082,0.46,10173.95,49.71,4.77,High Income,Developed,Member,G20 Member,East Asia
+Japan,2009,117895630,0.49,8452.34,23.26,2.86,Upper Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2010,72601258,0.48,55328.74,23.34,4.25,High Income,Developed,Member,G20 Member,East Asia
+Japan,2011,325194040,0.22,24801.31,38.45,2.06,Low Income,Developed,Member,G20 Member,East Asia
+Japan,2012,101031220,0.4,48198.12,50.0,1.25,Lower Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2013,339329553,0.27,29668.37,48.36,2.75,Upper Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2014,63683985,0.4,66527.1,54.95,1.14,Upper Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2015,126269240,0.31,61198.38,31.72,4.19,Low Income,Developed,Member,G20 Member,East Asia
+Japan,2016,167456071,0.39,9017.81,37.91,4.81,Upper Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2017,54209245,0.51,14320.78,51.01,2.98,High Income,Developed,Member,G20 Member,East Asia
+Japan,2018,343059148,0.5,31216.98,38.15,2.88,Upper Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2019,156884110,0.59,17028.06,36.83,4.61,Low Income,Developed,Member,G20 Member,East Asia
+Japan,2020,345629247,0.25,63978.92,31.61,3.07,Lower Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2021,56657925,0.53,1815.6,34.46,2.49,Lower Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2022,33536663,0.42,27141.12,40.57,2.0,Lower Middle Income,Developed,Member,G20 Member,East Asia
+Japan,2023,203341977,0.54,63025.99,28.68,4.38,High Income,Developed,Member,G20 Member,East Asia
+South Africa,2000,28643552,0.57,52012.48,42.26,3.2,High Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2001,84978576,0.27,1082.68,21.74,1.72,Upper Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2002,299578994,0.21,45868.46,55.21,3.96,High Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2003,55414728,0.48,33925.71,46.05,2.22,Lower Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2004,14004304,0.28,33933.6,28.61,2.74,Lower Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2005,345482097,0.21,38382.74,24.49,4.27,High Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2006,52941162,0.41,40535.96,41.68,3.29,High Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2007,279749318,0.54,22080.09,47.81,2.67,Upper Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2008,284667256,0.33,69663.99,46.54,1.85,Lower Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2009,169494954,0.3,41980.29,31.37,3.69,Low Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2010,36859402,0.51,43036.84,59.24,1.91,Upper Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2011,246858672,0.55,1161.42,34.42,3.62,High Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2012,173856822,0.63,22126.79,57.59,1.29,Lower Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2013,15423704,0.44,68209.91,35.84,3.64,Low Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2014,110948910,0.37,14397.0,28.61,4.88,Upper Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2015,219843596,0.38,4443.14,30.13,3.87,Upper Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2016,12350423,0.62,68033.23,30.99,3.74,Lower Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2017,223700898,0.27,43250.37,27.14,4.04,Low Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2018,142431738,0.5,64833.52,59.14,2.41,Low Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2019,31800236,0.61,1031.46,45.0,2.81,Upper Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2020,293900945,0.34,46989.17,29.9,1.16,Low Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2021,223322985,0.36,46885.99,37.55,4.75,Lower Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2022,185307831,0.49,24900.7,53.54,1.54,Lower Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+South Africa,2023,21311510,0.48,36462.63,40.21,4.73,Lower Middle Income,Developing,Key Partner,G20 Member,Sub-Saharan Africa
+Canada,2000,18836823,0.48,28135.96,31.65,1.03,Lower Middle Income,Developed,Member,G20 Member,North America
+Canada,2001,315328498,0.46,13457.08,29.75,2.62,Upper Middle Income,Developed,Member,G20 Member,North America
+Canada,2002,172800691,0.63,63847.12,20.73,2.54,Low Income,Developed,Member,G20 Member,North America
+Canada,2003,5843971,0.6,28468.65,50.03,3.65,Upper Middle Income,Developed,Member,G20 Member,North America
+Canada,2004,109152316,0.56,65351.44,53.25,1.52,Low Income,Developed,Member,G20 Member,North America
+Canada,2005,114104969,0.25,69269.51,50.14,3.47,Upper Middle Income,Developed,Member,G20 Member,North America
+Canada,2006,109345217,0.26,6363.65,38.34,4.41,Low Income,Developed,Member,G20 Member,North America
+Canada,2007,132096621,0.56,60260.85,50.1,2.97,High Income,Developed,Member,G20 Member,North America
+Canada,2008,199424293,0.26,25610.24,52.0,4.24,Upper Middle Income,Developed,Member,G20 Member,North America
+Canada,2009,102520535,0.61,40847.04,58.8,2.39,High Income,Developed,Member,G20 Member,North America
+Canada,2010,309071604,0.51,20827.98,57.35,4.39,Upper Middle Income,Developed,Member,G20 Member,North America
+Canada,2011,154456583,0.22,57150.92,39.21,1.45,High Income,Developed,Member,G20 Member,North America
+Canada,2012,259463548,0.43,26851.01,29.35,3.81,Low Income,Developed,Member,G20 Member,North America
+Canada,2013,270747243,0.35,34804.02,31.71,2.4,Lower Middle Income,Developed,Member,G20 Member,North America
+Canada,2014,269705027,0.54,51959.68,49.64,3.38,Lower Middle Income,Developed,Member,G20 Member,North America
+Canada,2015,274454947,0.42,27377.36,47.43,3.14,Lower Middle Income,Developed,Member,G20 Member,North America
+Canada,2016,311642483,0.63,52644.27,56.82,1.11,Upper Middle Income,Developed,Member,G20 Member,North America
+Canada,2017,17711160,0.2,2784.36,55.75,2.18,High Income,Developed,Member,G20 Member,North America
+Canada,2018,296826011,0.47,57427.89,33.68,2.63,High Income,Developed,Member,G20 Member,North America
+Canada,2019,199562384,0.27,28234.91,27.65,1.14,Lower Middle Income,Developed,Member,G20 Member,North America
+Canada,2020,277633294,0.63,47427.29,24.4,4.78,Upper Middle Income,Developed,Member,G20 Member,North America
+Canada,2021,177416741,0.28,11049.98,30.63,4.38,High Income,Developed,Member,G20 Member,North America
+Canada,2022,145020118,0.59,69448.55,48.81,3.62,High Income,Developed,Member,G20 Member,North America
+Canada,2023,330839157,0.54,30888.37,35.59,3.14,High Income,Developed,Member,G20 Member,North America
+Mexico,2000,40278636,0.53,40402.03,36.37,1.3,High Income,Developing,Member,G20 Member,North America
+Mexico,2001,235406814,0.56,4412.26,48.01,3.97,High Income,Developing,Member,G20 Member,North America
+Mexico,2002,76724950,0.55,3009.78,50.19,3.83,Lower Middle Income,Developing,Member,G20 Member,North America
+Mexico,2003,75141108,0.41,6014.34,41.27,3.13,High Income,Developing,Member,G20 Member,North America
+Mexico,2004,224513261,0.57,33242.75,33.18,4.82,Lower Middle Income,Developing,Member,G20 Member,North America
+Mexico,2005,181085770,0.57,39327.35,49.83,1.4,Upper Middle Income,Developing,Member,G20 Member,North America
+Mexico,2006,132987882,0.57,16441.94,59.41,2.72,Low Income,Developing,Member,G20 Member,North America
+Mexico,2007,115859408,0.43,1497.77,54.72,4.81,Lower Middle Income,Developing,Member,G20 Member,North America
+Mexico,2008,224083476,0.41,22491.73,57.63,4.3,High Income,Developing,Member,G20 Member,North America
+Mexico,2009,237235961,0.24,66466.11,38.17,1.24,High Income,Developing,Member,G20 Member,North America
+Mexico,2010,77536422,0.56,15246.81,20.06,1.8,Low Income,Developing,Member,G20 Member,North America
+Mexico,2011,47474793,0.21,20695.96,58.44,2.11,Low Income,Developing,Member,G20 Member,North America
+Mexico,2012,226415011,0.35,26527.57,31.61,2.57,High Income,Developing,Member,G20 Member,North America
+Mexico,2013,254096675,0.51,15884.99,36.39,2.35,High Income,Developing,Member,G20 Member,North America
+Mexico,2014,17780794,0.55,28950.12,57.12,1.38,Upper Middle Income,Developing,Member,G20 Member,North America
+Mexico,2015,9245817,0.42,7073.29,31.5,3.37,Upper Middle Income,Developing,Member,G20 Member,North America
+Mexico,2016,95502150,0.35,66211.93,41.42,2.6,High Income,Developing,Member,G20 Member,North America
+Mexico,2017,146913860,0.28,41037.47,32.8,4.07,Lower Middle Income,Developing,Member,G20 Member,North America
+Mexico,2018,280459373,0.25,2340.66,46.37,2.77,Upper Middle Income,Developing,Member,G20 Member,North America
+Mexico,2019,283634849,0.45,33246.4,51.99,2.35,Lower Middle Income,Developing,Member,G20 Member,North America
+Mexico,2020,200551120,0.2,36959.79,43.2,3.2,Low Income,Developing,Member,G20 Member,North America
+Mexico,2021,267604814,0.35,50142.26,42.71,2.68,Low Income,Developing,Member,G20 Member,North America
+Mexico,2022,271776984,0.54,45928.76,35.43,1.82,Lower Middle Income,Developing,Member,G20 Member,North America
+Mexico,2023,145595981,0.57,37379.6,23.55,1.52,Upper Middle Income,Developing,Member,G20 Member,North America
+France,2000,335354742,0.36,17278.13,33.02,1.31,High Income,Developed,Member,G20 Member,Western Europe
+France,2001,231617497,0.25,54895.96,56.92,2.62,High Income,Developed,Member,G20 Member,Western Europe
+France,2002,14269499,0.45,1409.14,56.55,2.79,Low Income,Developed,Member,G20 Member,Western Europe
+France,2003,43261319,0.38,32313.15,32.58,1.21,High Income,Developed,Member,G20 Member,Western Europe
+France,2004,12586565,0.43,13514.16,31.13,2.89,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+France,2005,348053957,0.53,1801.47,26.88,2.49,Low Income,Developed,Member,G20 Member,Western Europe
+France,2006,273406644,0.23,5320.2,22.52,4.85,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+France,2007,79131592,0.44,20858.43,30.1,4.43,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+France,2008,249046381,0.23,52162.77,58.53,4.72,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+France,2009,8189446,0.37,48743.07,49.14,2.94,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+France,2010,259653374,0.42,3877.53,27.07,2.57,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+France,2011,56068518,0.39,29610.25,40.47,1.37,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+France,2012,255678781,0.28,38363.02,21.8,4.01,Low Income,Developed,Member,G20 Member,Western Europe
+France,2013,51139894,0.62,42836.98,38.11,2.45,Low Income,Developed,Member,G20 Member,Western Europe
+France,2014,233499000,0.59,61182.26,57.93,1.88,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+France,2015,7280546,0.24,58589.4,38.4,3.11,High Income,Developed,Member,G20 Member,Western Europe
+France,2016,268620955,0.49,29155.54,49.13,3.26,Low Income,Developed,Member,G20 Member,Western Europe
+France,2017,82583930,0.34,66326.35,35.79,2.59,High Income,Developed,Member,G20 Member,Western Europe
+France,2018,226826371,0.64,57834.1,35.75,1.56,Lower Middle Income,Developed,Member,G20 Member,Western Europe
+France,2019,291647794,0.6,9340.25,48.34,4.73,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+France,2020,119724211,0.53,54470.17,39.24,4.05,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+France,2021,275538389,0.51,2769.72,41.93,4.24,Low Income,Developed,Member,G20 Member,Western Europe
+France,2022,182707009,0.2,31085.31,57.24,2.81,High Income,Developed,Member,G20 Member,Western Europe
+France,2023,232089401,0.52,59280.22,20.05,2.65,Upper Middle Income,Developed,Member,G20 Member,Western Europe
+Australia,2000,189245873,0.4,36454.69,49.38,4.72,Upper Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2001,226136418,0.27,16528.54,27.72,3.46,Upper Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2002,340237597,0.52,63372.59,49.51,3.23,High Income,Developed,Member,G20 Member,Oceania
+Australia,2003,206615078,0.29,4642.12,50.51,1.73,Low Income,Developed,Member,G20 Member,Oceania
+Australia,2004,152850316,0.46,2029.96,20.59,1.78,Lower Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2005,115913633,0.27,12318.07,41.12,4.29,Upper Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2006,229983858,0.58,22830.26,50.04,1.21,Upper Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2007,116089246,0.4,34245.47,25.01,1.06,Lower Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2008,169127817,0.54,19528.13,51.34,4.41,Lower Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2009,295266806,0.38,37409.61,48.9,1.71,Lower Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2010,197597584,0.54,16122.65,51.37,1.03,High Income,Developed,Member,G20 Member,Oceania
+Australia,2011,115860572,0.55,8680.68,51.96,4.38,Upper Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2012,68425445,0.64,27374.49,41.61,3.23,High Income,Developed,Member,G20 Member,Oceania
+Australia,2013,118591712,0.36,21609.62,31.02,1.42,High Income,Developed,Member,G20 Member,Oceania
+Australia,2014,191582727,0.37,14226.55,46.24,1.1,Upper Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2015,292367359,0.6,50289.68,41.54,1.27,High Income,Developed,Member,G20 Member,Oceania
+Australia,2016,79837839,0.28,18456.74,21.63,2.84,High Income,Developed,Member,G20 Member,Oceania
+Australia,2017,215793884,0.37,56274.09,32.44,1.56,Low Income,Developed,Member,G20 Member,Oceania
+Australia,2018,239216253,0.24,69210.94,55.2,3.18,High Income,Developed,Member,G20 Member,Oceania
+Australia,2019,331685648,0.64,19651.66,40.59,3.66,High Income,Developed,Member,G20 Member,Oceania
+Australia,2020,228427621,0.64,33039.43,46.87,2.17,Low Income,Developed,Member,G20 Member,Oceania
+Australia,2021,344776267,0.49,2811.25,36.65,4.42,Lower Middle Income,Developed,Member,G20 Member,Oceania
+Australia,2022,336378626,0.34,57899.97,30.49,2.43,High Income,Developed,Member,G20 Member,Oceania
+Australia,2023,210300248,0.55,50265.45,52.82,4.22,Upper Middle Income,Developed,Member,G20 Member,Oceania
+Saudi Arabia,2000,231795311,0.55,27746.06,28.11,2.5,Upper Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2001,180618507,0.4,62692.78,27.11,1.11,Low Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2002,128462528,0.4,37030.37,30.81,4.72,High Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2003,182848950,0.64,55833.54,44.0,2.51,Low Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2004,239577808,0.46,20968.58,33.78,2.89,High Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2005,314269826,0.6,61401.17,52.65,1.1,Upper Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2006,60216359,0.27,54291.77,41.76,1.1,Upper Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2007,227014878,0.61,34060.78,55.23,2.47,Low Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2008,116288880,0.58,35838.05,22.53,4.27,Lower Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2009,260627791,0.6,38204.98,55.37,4.1,High Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2010,332990983,0.23,15707.19,52.29,2.84,Lower Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2011,54328487,0.21,23816.23,28.59,3.53,Lower Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2012,61145125,0.38,64331.92,29.37,4.45,High Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2013,329015227,0.38,58674.5,59.69,3.79,Lower Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2014,337173581,0.33,45598.05,33.56,3.55,Lower Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2015,145907545,0.25,56968.03,21.63,1.35,Upper Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2016,149228157,0.49,52656.02,30.54,4.91,Low Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2017,276137527,0.5,38125.53,21.09,3.64,Lower Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2018,286989011,0.51,67851.69,20.3,3.58,Low Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2019,76352940,0.3,22142.29,27.32,4.17,High Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2020,59947230,0.3,23503.22,51.79,1.84,Low Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2021,8614363,0.47,44303.92,24.31,1.97,Low Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2022,210722601,0.21,56770.87,42.41,2.05,Low Income,Developed,Non Member,G20 Member,Middle East and North Africa
+Saudi Arabia,2023,165396943,0.36,65251.31,30.82,2.18,Lower Middle Income,Developed,Non Member,G20 Member,Middle East and North Africa
